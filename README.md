@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Cayman theme
 
-You can use the [editor on GitHub](https://github.com/etri-city-traffic-brain/etri-city-traffic-brain.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
 
-### Markdown
+![](http://cl.ly/image/1T3r3d18311V/content)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Customizations
 
-```markdown
-Syntax highlighted code block
+If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com and http://jxnblk.com/shade/.
 
-# Header 1
-## Header 2
-### Header 3
+# Using with Jekyll
 
-- Bulleted
-- List
+If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
 
-1. Numbered
-2. List
+# License
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etri-city-traffic-brain/etri-city-traffic-brain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
