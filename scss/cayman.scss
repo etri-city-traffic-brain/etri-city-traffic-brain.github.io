@@ -129,10 +129,12 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  
-  color: inherit;
-  text-decoration: none;
 
+  a {
+    color: inherit;
+    text-decoration: none;
+  }  
+  
   @include large {
     font-size: 3.25rem;
   }
