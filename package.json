@@ -11,5 +11,8 @@
     "grunt-postcss": "~0.8.0",
     "grunt-sass": "~1.1.0",
     "grunt-contrib-watch": "~1.0.0"
+  },
+  "dependencies": {
+    "sass": "^1.26.7"
   }
 }
