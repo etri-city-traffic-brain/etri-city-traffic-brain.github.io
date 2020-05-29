@@ -67,6 +67,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-sass');
 
   // Generate and format the CSS
-  grunt.registerTask('default', ['browserSync', 'watch']);
+  grunt.registerTask('default', ['browserSync', 'watch', 'sass']);
 
 };
