@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
 title: 도시교통 브레인
-sass:
-  sass_dir: scss
-  style: campressed
