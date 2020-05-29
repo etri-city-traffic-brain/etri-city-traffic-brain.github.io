@@ -1,4 +1,4 @@
-module.exports = function(grunt) {
+/*module.exports = function(grunt) {
 
   grunt.initConfig({
 
@@ -70,3 +70,4 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['browserSync', 'watch']);
 
 };
+*/
