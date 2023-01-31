@@ -7,8 +7,11 @@
 ![image](https://user-images.githubusercontent.com/3960018/215690318-a6fb1566-f662-42d3-a832-6575f814b9e2.png)
 -->
 
+<!--
 <center><img src="https://user-images.githubusercontent.com/3960018/215690318-a6fb1566-f662-42d3-a832-6575f814b9e2.png" width="500" height="400"></center>
+-->
 
+<center><img src="https://github.com/etri-city-traffic-brain/etri-city-traffic-brain.github.io/blob/master/overview-city-traffic-brain.png" width="500" height="400"></center>
 
 O 주요 정량적 목표
    - 교차로 통과시간 감소율 15% 이상
