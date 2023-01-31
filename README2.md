@@ -92,9 +92,9 @@ O 주요 정량적 목표
   * [UNIQ-MGT Dashboard](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/releases/tag/v1.0.2)
   * [UNIQ-MGT API Gateway](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt-api-gateway/releases/tag/v1.0.2)
 * [UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt)
-  * Tag 찍어 달라고 요청해야 한다.
+  * Tag 찍고 Release 버전 만들어 달라고 요청해야 한다.  지저분한 파일 정리도 필요하다.
 * [UNIQ-TSI](https://github.com/etri-city-traffic-brain/edge-intelligence)
-  * Tag 찍어 달라고 요청해야 한다.
+  * Tag 찍고 Release 버전 만들어 달라고 요청해야 한다.
 * [UNIQ-SIM](https://github.com/etri-city-traffic-brain/traffic-simulator/releases/tag/traffic-simulator-v1.0)
 * [UNIQ-OPT](https://github.com/etri-city-traffic-brain/traffic-signal-optimization/releases/tag/v1.5a-20221114)
 * [UNIQ-VIS](https://github.com/etri-city-traffic-brain/visualization-tool/releases/tag/v2.0.1)
