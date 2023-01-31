@@ -47,17 +47,16 @@ O 주요 정량적 목표
 #
 ## 연차별 연구 내용 
 ### 1차년도
-![1차년도](./1yr.png){width="500" height="400"}
-<img src="./1yr.png" width="500" height="400"/>
+<img src="./1yr.png" width="600" height="400"/>
 
 ### 2차년도
-![2차년도](./2yr.png)
+<img src="./2yr.png" width="600" height="400"/>
 
 ### 3차년도
-![3차년도](./3yr.png)
+<img src="./3yr.png" width="600" height="400"/>
 
 ### 4차년도
-![4차년도](./4yr.png)
+<img src="./4yr.png" width="600" height="400"/>
 
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
 
