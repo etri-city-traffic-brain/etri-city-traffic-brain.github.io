@@ -102,6 +102,7 @@ O 주요 정량적 목표
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
 #
 ## 설치 및 사용 가이드
+개별 서브시스템(컴포넌트)의 설치 및 사용 가이드는 다음의 링크를 방문한다.
 * [UNIQ-MGT](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/blob/master/README.md)
 * [UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/blob/master/README.md)
   * [Traffic Data REST API](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/tree/master/etri_traffic_restapi)
