@@ -102,11 +102,11 @@ O 주요 정량적 목표
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
 #
 ## 설치 및 사용 가이드
-* [UNIQ-MGT](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/README.md)
-* [UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/README.md)
-* [UNIQ-TSI](https://github.com/etri-city-traffic-brain/edge-intelligence/README.md)
-* [UNIQ-SIM](https://github.com/etri-city-traffic-brain/traffic-simulator/README.md)
+* [UNIQ-MGT](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/blob/master/README.md)
+* [UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/blob/master/README.md)
+* [UNIQ-TSI](https://github.com/etri-city-traffic-brain/edge-intelligence/blob/master/README.md)
+* [UNIQ-SIM](https://github.com/etri-city-traffic-brain/traffic-simulator/blob/master/README.md)
 * [UNIQ-OPT](https://github.com/etri-city-traffic-brain/traffic-signal-optimization/tree/master/atsc-rl/multiagent_tf2/README.md)
-* [UNIQ-VIS](https://github.com/etri-city-traffic-brain/visualization-tool/README.md)
+* [UNIQ-VIS](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/README.md)
 
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
