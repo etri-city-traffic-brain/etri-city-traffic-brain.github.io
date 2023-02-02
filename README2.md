@@ -104,9 +104,13 @@ O 주요 정량적 목표
 ## 설치 및 사용 가이드
 * [UNIQ-MGT](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/blob/master/README.md)
 * [UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/blob/master/README.md)
+  * [Traffic Data REST API](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/tree/master/etri_traffic_restapi)
+  * [지자체 교통 데이터 구축 및 연계](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/tree/master/etri_data_collect_provider)
 * [UNIQ-TSI](https://github.com/etri-city-traffic-brain/edge-intelligence/blob/master/README.md)
 * [UNIQ-SIM](https://github.com/etri-city-traffic-brain/traffic-simulator/blob/master/README.md)
 * [UNIQ-OPT](https://github.com/etri-city-traffic-brain/traffic-signal-optimization/tree/master/atsc-rl/multiagent_tf2/README.md)
 * [UNIQ-VIS](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/README.md)
+  * [웹 클라이언트](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/client/README.md)
+  * [가상화 서버](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/server/README.md)
 
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
