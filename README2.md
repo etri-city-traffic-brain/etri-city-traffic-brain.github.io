@@ -112,6 +112,6 @@ O 주요 정량적 목표
   * [웹 클라이언트](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/client/README.md)
   * [가상화 서버](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/server/README.md)
 
-UNIQ 시스템의 설치는 클라우드 엣지 통합 관리(UNIQ-MGT), 계층적 교통데이터 관리(UNIQ-TDM), 스케일러블 교통 시뮬레이션(UNIQ-SIM), 교통 신호 최적화(UNIQ-OPT), 실시간 교통 상황 시각적 분석(UNIQ-VIS) 순으로 설치하는 것을 권고한다.
+UNIQ 시스템의 설치는 클라우드 엣지 통합 관리([UNIQ-MGT](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/blob/master/README.md)), 계층적 교통데이터 관리([UNIQ-TDM](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/blob/master/README.md)), 스케일러블 교통 시뮬레이션([UNIQ-SIM](https://github.com/etri-city-traffic-brain/traffic-simulator/blob/master/README.md)), 교통 신호 최적화([UNIQ-OPT](https://github.com/etri-city-traffic-brain/traffic-signal-optimization/tree/master/atsc-rl/multiagent_tf2/README.md)), 실시간 교통 상황 시각적 분석([UNIQ-VIS](https://github.com/etri-city-traffic-brain/visualization-tool/blob/master/README.md)) 순으로 설치하는 것을 권고한다.
 
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
