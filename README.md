@@ -80,7 +80,7 @@ O 주요 정량적 목표
 <b>이동</b> : [[연구 내용](#연구-내용)]   [[연차별 연구 내용](#연차별-연구-내용)]   [[UNIQ 시스템 구성](#UNIQ-시스템-구성)]   [[UNIQ 공개 버전 다운로드](#UNIQ-공개-버전-다운로드)]   [[설치 및 사용 가이드](#설치-및-사용-가이드)]
 #
 ## UNIQ 공개 버전 다운로드
-### 3차년도 결과물 : UNIQ v1.0
+### 3차년도 결과물 : UNIQ v2.0
 * UNIQ-MGT
   * [UNIQ-MGT Dashboard](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/releases/tag/v1.0.2)
   * [UNIQ-MGT API Gateway](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt-api-gateway/releases/tag/v1.0.2)
