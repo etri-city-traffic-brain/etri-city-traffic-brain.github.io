@@ -84,7 +84,7 @@ O 주요 정량적 목표
 * UNIQ-MGT
   * [UNIQ-MGT Dashboard(v1.04)](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt/releases/tag/v1.0.4)
   * [UNIQ-MGT API Gateway(v1.03)](https://github.com/etri-city-traffic-brain/cloud-edge-mgmt-api-gateway/releases/tag/v1.0.3)
-* [UNIQ-TDM(??) ](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/releases/tag/Release_v1.0)
+* [UNIQ-TDM(v1.1) ](https://github.com/etri-city-traffic-brain/traffic-data-mgmt/releases/tag/Release_v1.1)
 * [UNIQ-TSI(v2.0) ](https://github.com/etri-city-traffic-brain/edge-intelligence/releases/tag/v2.0.0)
 * [UNIQ-SIM(v2.0)](https://github.com/etri-city-traffic-brain/traffic-simulator/releases/tag/traffic-simulator-v2.0)
 * [UNIQ-OPT(v3.0)](https://github.com/etri-city-traffic-brain/traffic-signal-optimization/releases/tag/v3.0-20240226)
